@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwyHXjTKO+pXag4DYpAUGBZuXY26Qf2jMZB0txSPWRllgYGW2mQQhD7o7uLdz0wNRiG9HG4/TTAORzgbwXLleQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robson Magno\\Documents\\Visual Studio 2019\\Projects\\API 5.0\\FilmesAPI2\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.10\\microsoft.aspnetcore.authorization.5.0.10.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.10\\microsoft.aspnetcore.components.5.0.10.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.10\\microsoft.aspnetcore.components.analyzers.5.0.10.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.10\\microsoft.aspnetcore.metadata.5.0.10.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Robson Magno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
